@@ -17,14 +17,14 @@ writing code and geological cross-sections by day, making music, writing and art
 
 🔭 &nbsp; **currently building** — Computer Graphics · WebDev · GameDev · Machine Learning
 🌱 &nbsp; **currently learning** — OpenGL · mesh processing · fault analysis
-🎵 &nbsp; **when not coding** — making music · drawing · writing
-💬 &nbsp; **ask me about** — geophysics · creative CS · anything interdisciplinary
+🎵 &nbsp; **when not coding**: making music · drawing · writing
+💬 &nbsp; **ask me about**: geophysics · CS · anything interdisciplinary
 
 ---
 
 ### `// education`
 
-🎓 &nbsp; **University of Houston** — B.S. Computer Science · minors in Geology & English
+🎓 &nbsp; **University of Houston**: B.S. Computer Science · minors in Geology & English
 
 ---
 
