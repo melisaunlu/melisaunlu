@@ -2,7 +2,7 @@
 
 ---
 
-### `// who am i`
+### `who am i`
 
 hi, i'm **melissa** ✦
 
@@ -13,7 +13,7 @@ writing code and geological cross-sections by day, making music, writing and art
 
 ---
 
-### `// right now`
+### ` right now`
 
 🔭 &nbsp; **currently building** — Computer Graphics · WebDev · GameDev · Machine Learning
 🌱 &nbsp; **currently learning** — OpenGL · mesh processing · fault analysis
@@ -22,13 +22,13 @@ writing code and geological cross-sections by day, making music, writing and art
 
 ---
 
-### `// education`
+### `education`
 
 🎓 &nbsp; **University of Houston**: B.S. Computer Science · minors in Geology & English
 
 ---
 
-### `// languages & tools`
+### `languages & tools`
 
 ![Python](https://img.shields.io/badge/Python-07070f?style=flat-square&logo=python&logoColor=a78bfa)
 ![JavaScript](https://img.shields.io/badge/JavaScript-07070f?style=flat-square&logo=javascript&logoColor=60a5fa)
@@ -40,7 +40,7 @@ writing code and geological cross-sections by day, making music, writing and art
 
 ---
 
-### `// projects`
+### `projects`
 
 🛸 &nbsp; [**Science-Fiction-Project**](https://github.com/melisaunlu/Science-Fiction-Project-) — full-stack space travel system · route-finding · ship tracking · missions
 🌌 &nbsp; [**Star Classification**](https://github.com/melisaunlu/Star_Classification) — ML model classifying stellar objects from spectral data
